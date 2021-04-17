@@ -56,7 +56,8 @@ setup_args = dict(
     packages=setuptools.find_packages(),
     install_requires=[
         "jupyterlab~=3.0",
-        "jupyter_packaging~=0.9,<2"
+        "jupyter_packaging~=0.9,<2",
+        "jupyterlab-tour>=3.0.1,<4"
     ],
     zip_safe=False,
     include_package_data=True,

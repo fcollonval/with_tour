@@ -3,7 +3,7 @@ import {
   JupyterFrontEndPlugin
 } from '@jupyterlab/application';
 
-import { ITourManager } from 'jupyterlab-tour/lib/tokens';
+import { ITourManager } from 'jupyterlab-tour';
 
 /**
  * Initialization data for the with_tour extension.

@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^3.0.0",
-    "jupyterlab-tour": "^3.0.0"
+    "jupyterlab-tour": "^3.0.1"
   },
   "devDependencies": {
     "@jupyterlab/builder": "^3.0.0",

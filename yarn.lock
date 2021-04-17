@@ -2509,10 +2509,10 @@ jsonfile@^6.0.1:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
-jupyterlab-tour@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/jupyterlab-tour/-/jupyterlab-tour-3.0.0.tgz#a2acdbad1dfd936b03e8f692ed2c9a8e00a6b97a"
-  integrity sha512-nA7Hj2q49DEZS8PmEypVZpsxh0vIGnyT1AdosQAnq08Qw3JyfiYXFJa+hdJiwz2Jp8ciSeYisEKrrZt63uR2+g==
+jupyterlab-tour@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/jupyterlab-tour/-/jupyterlab-tour-3.0.1.tgz#a3c3fdf210defea87a3bdd9036e345015caf8dfd"
+  integrity sha512-SRMrLYd3eoEjYkfHFb34VRBORBhDloBXyLhmLH7X3nLJi4vFhba66Am21RjniHAEHQsT7h4dBcl3yPXe28pEUg==
   dependencies:
     "@jupyterlab/application" "^3.0.0"
     "@jupyterlab/apputils" "^3.0.0"
